@@ -1,6 +1,5 @@
 # Industrial Robot Arm – Fusion 360 CAD Project
 
-![Robot Arm](images/full_robot.png)
 
 ## Overview
 This project presents the CAD design of a multi-joint industrial robotic arm created using Autodesk Fusion 360.  
